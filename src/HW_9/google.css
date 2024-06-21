@@ -1,0 +1,79 @@
+
+.google {
+    padding: 0 15px 30px;
+    background-color: #1f1f1f;
+}
+
+.google_logo-img {
+    height: 55px;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    gap: 90px;
+}
+.google_logo-img img {
+    width: 27%;
+
+}
+.google_logo-account {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    font-weight: 400;
+    background-color: #c14141;
+    padding: 3px 9px;
+    border-radius: 49%;
+}
+
+.google_search {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #282828b0;
+    padding: 8px 14px;
+    border-radius: 20px;
+}
+.google_search-text {
+    width: 220px;
+    text-align: left;
+    padding-left: 16px;
+}
+.google_search-p {
+padding-right: 10px;
+color: #707070;
+font-size: 16px;
+
+}
+.google_img-search-mic {
+    margin-left: 10px;
+}
+.google_img-search-mic img {
+    width: 120%;
+}
+span {
+    height: 22px;
+    border-left: 1px solid #404040;
+}
+.google_list {
+    width: 100%;
+    padding: 12px 0;
+    border-bottom: 1px solid #404040;
+}
+.google_list-ol {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    color: #6f6f6f;
+    font-weight: 400;
+}
+.google_list-li {
+    color: #bcbcbc;
+}
+.google_content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

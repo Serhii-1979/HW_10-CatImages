@@ -3,7 +3,9 @@ import React from 'react';
 import './App.css';
 // import SpotifyList from './components/SpotifyList';
 // import Counter from './testing/Counter'
-import ListItems from './components/ListItems';
+// import ListItems from './components/ListItems';
+// import CatImage from './HW_9/CatImage'
+import PhoneCont from './HW_9/PhoneCont'
 
 function App() {
   return (
@@ -11,7 +13,9 @@ function App() {
       {/* <SpotifyList /> */}
       {/* <UserProfile /> */}
       {/* <Counter /> */}
-      <ListItems />
+      {/* <ListItems /> */}
+      {/* <CatImage /> */}
+      <PhoneCont />
     </div>
   );
 }
